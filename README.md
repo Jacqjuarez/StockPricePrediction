@@ -27,6 +27,16 @@ Run the model
 
 bash
 Copy code
+
+ ## Key Learning Outcomes
+
+Collected and cleaned financial data using an API
+
+Built and evaluated a regression model
+
+Visualized model performance with Matplotlib
+
+Applied real-world machine learning workflow in finance
 python scripts/stock_prediction.py
 Results
 
